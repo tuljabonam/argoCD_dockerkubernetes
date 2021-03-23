@@ -15,6 +15,5 @@ spec:
         app: swe
     spec:
       containers:
-      - image: tuljabonam/swe645
-      :latest
+      - image: tuljabonam/swe645:latest
         name: swe
